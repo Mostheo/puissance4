@@ -4,7 +4,7 @@ L'objectif du projet est de créer un jeu de puissance 4 connecté ou 2 joueurs 
 
 ## ⚙️ Technologies
 
-- **Client:** React
+- **Client:** React, TypeScript
 
 - **Serveur:** Node, Express
 
