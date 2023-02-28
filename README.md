@@ -9,4 +9,4 @@ L'objectif du projet est de créer un jeu de puissance 4 connecté ou 2 joueurs 
 - **Serveur:** Node, Express
 
 ##
-[@octokatherine](https://www.github.com/Mostheo)
+[@Mostheo](https://www.github.com/Mostheo)
